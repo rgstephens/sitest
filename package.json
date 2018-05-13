@@ -1,0 +1,16 @@
+{
+  "name": "sitest",
+  "version": "0.1.0",
+  "description": "System Information Teset",
+  "main": "test.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgstephens/sitest.git"
+  },
+  "author": "Greg Stephens",
+  "license": "ISC",
+  "dependencies": {
+    "systeminformation": "^3.41.1"
+  }
+}
+
